@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 17:10:55</sys_created_on>
+        <sys_id>0ec09baddbb4a01096ac28df4b961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48c09baddbb4a01096ac28df4b961915</sys_name>
+        <sys_package display_value="CCW1856" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1856">b5a05473908010107f4468f7a3a96f5c</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_0ec09baddbb4a01096ac28df4b961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 17:10:55</sys_updated_on>
+        <test display_value="CCW1956 Pipeline Test">48c09baddbb4a01096ac28df4b961915</test>
+        <test_suite display_value="CCW1856 Test Suite">9f4013addbb4a01096ac28df4b961929</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
